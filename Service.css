@@ -1,0 +1,23 @@
+body{
+  background-image:linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)),url("brady-cook-266057-unsplash.jpg");
+  background-size: cover;
+  background-position: center;
+  color:#fff !important;
+}
+.services{
+  margin: 90px auto;
+  text-align: center;
+}
+h1{
+  font-family: sans-serif;
+  latter-spacing: 1px;
+}
+h1:after{
+  content:"";
+  background: white;
+  display: block;
+  width: 150px;
+  height: 3px;
+  margin: 10px auto;
+
+}
